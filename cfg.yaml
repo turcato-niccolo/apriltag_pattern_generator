@@ -1,0 +1,12 @@
+# tag type: tag36h11 or ar
+tag_type: tag36h11
+
+# Current support: Apriltags tag36h11 [0-586], AR-tag [0-17]
+tags_id: [1]
+# The following parameters are in meters
+# The origin of the coordinates is at the center of the pdf
+# Vertical upward is the Y-axis direction. Horizontal to the right is the X-axis direction
+tags_pose: [[0, 0]]
+tags_size: [0.30]
+# A4: [0.297, 0.21], A3: [0.42, 0.297], A2: [0.594, 0.42], A1: [0.841, 0.594], A0: [1.189, 0.841]
+pdf_size: [0.42, 0.297]
